@@ -6,7 +6,7 @@
 //
 
 
-// Lab 7 Student ID: 8778882
+// Lab 6 Student ID: 8778882
 
 import UIKit
 
